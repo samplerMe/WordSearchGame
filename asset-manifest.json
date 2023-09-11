@@ -1,17 +1,17 @@
 {
-  "main.css": "/WordSearchGame/static/css/main.cdf1b911.chunk.css",
-  "main.js": "/WordSearchGame/static/js/main.19a869f8.chunk.js",
-  "main.js.map": "/WordSearchGame/static/js/main.19a869f8.chunk.js.map",
-  "static/js/1.ee2fa2fc.chunk.js": "/WordSearchGame/static/js/1.ee2fa2fc.chunk.js",
-  "static/js/1.ee2fa2fc.chunk.js.map": "/WordSearchGame/static/js/1.ee2fa2fc.chunk.js.map",
-  "static/js/2.bb421e23.chunk.js": "/WordSearchGame/static/js/2.bb421e23.chunk.js",
-  "static/js/2.bb421e23.chunk.js.map": "/WordSearchGame/static/js/2.bb421e23.chunk.js.map",
-  "runtime~main.js": "/WordSearchGame/static/js/runtime~main.170cb6f3.js",
-  "runtime~main.js.map": "/WordSearchGame/static/js/runtime~main.170cb6f3.js.map",
-  "static/media/win.mp3": "/WordSearchGame/static/media/win.de7c0cf3.mp3",
-  "static/media/index.css": "/WordSearchGame/static/media/bg.3d23644f.png",
-  "static/css/main.cdf1b911.chunk.css.map": "/WordSearchGame/static/css/main.cdf1b911.chunk.css.map",
-  "index.html": "/WordSearchGame/index.html",
-  "precache-manifest.feeb570c2e0e8233dcb50bb4f0020c5c.js": "/WordSearchGame/precache-manifest.feeb570c2e0e8233dcb50bb4f0020c5c.js",
-  "service-worker.js": "/WordSearchGame/service-worker.js"
+  "files": {
+    "main.css": "/WordSearchGame/static/css/main.5a696eeb.css",
+    "main.js": "/WordSearchGame/static/js/main.f1788ba6.js",
+    "static/js/787.e36ed3f0.chunk.js": "/WordSearchGame/static/js/787.e36ed3f0.chunk.js",
+    "static/media/win.mp3": "/WordSearchGame/static/media/win.37b45d4b4b0828435ef4.mp3",
+    "static/media/bg.png": "/WordSearchGame/static/media/bg.fb9cdc48b19cde474ece.png",
+    "index.html": "/WordSearchGame/index.html",
+    "main.5a696eeb.css.map": "/WordSearchGame/static/css/main.5a696eeb.css.map",
+    "main.f1788ba6.js.map": "/WordSearchGame/static/js/main.f1788ba6.js.map",
+    "787.e36ed3f0.chunk.js.map": "/WordSearchGame/static/js/787.e36ed3f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a696eeb.css",
+    "static/js/main.f1788ba6.js"
+  ]
 }
