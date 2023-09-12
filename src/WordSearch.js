@@ -1,7 +1,7 @@
 import React, { useState, useEffect ,useRef} from 'react';
 import './WordSearch.css';
 import winSound from './win.mp3';
-const gridSize = 10;
+const gridSize = 13;
 const words = ["monkey", "owl", "frog", "spider", "tortoise", "snail"];
 
 const crosswordWordsSize = 6;
