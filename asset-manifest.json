@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/WordSearchGame/static/css/main.cef2fe6a.css",
+    "main.css": "/WordSearchGame/static/css/main.36e78b70.css",
     "main.js": "/WordSearchGame/static/js/main.f1788ba6.js",
     "static/js/787.e36ed3f0.chunk.js": "/WordSearchGame/static/js/787.e36ed3f0.chunk.js",
     "static/media/win.mp3": "/WordSearchGame/static/media/win.37b45d4b4b0828435ef4.mp3",
     "static/media/bg.png": "/WordSearchGame/static/media/bg.fb9cdc48b19cde474ece.png",
     "index.html": "/WordSearchGame/index.html",
-    "main.cef2fe6a.css.map": "/WordSearchGame/static/css/main.cef2fe6a.css.map",
+    "main.36e78b70.css.map": "/WordSearchGame/static/css/main.36e78b70.css.map",
     "main.f1788ba6.js.map": "/WordSearchGame/static/js/main.f1788ba6.js.map",
     "787.e36ed3f0.chunk.js.map": "/WordSearchGame/static/js/787.e36ed3f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cef2fe6a.css",
+    "static/css/main.36e78b70.css",
     "static/js/main.f1788ba6.js"
   ]
 }
