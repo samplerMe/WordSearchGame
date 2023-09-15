@@ -207,6 +207,7 @@ export default function WordSearch() {
     if (genWordList.includes(WordList)) {
       // WordList matches one of the words in genWordList
       setRemainingWords(remainingWords - 1);
+      
       setfilled(()=>
       {
         selectedWords.forEach((value)=>{
@@ -231,7 +232,7 @@ export default function WordSearch() {
       setSelectedWords([]);
       setWordList('');
     }
-    if(remainingWords===0)
+    if(remainingWords === 0)
     {
       const congMessage = document.getElementById('Congratulations');
       const p = congMessage.getElementsByTagName('p');
@@ -286,13 +287,14 @@ export default function WordSearch() {
 
   return (
     <>
+    <div class="root">
     <div>
       <div className="Title" >
-        <p>WordSearch</p>
+        <p>WordSearch (Animals)</p>
       </div>
       <div className="Scoreboard">
         <span><p>To Find</p></span>
-        <span ><p id="remCount">{remainingWords}</p> 
+        <span ><p id="remCount">{`${remainingWords}`}</p> 
         </span>
         
       </div>
@@ -305,6 +307,7 @@ export default function WordSearch() {
     <audio ref={audioRef}>
       <source src={winSound} type="audio/mpeg" />
     </audio>
+  </div>
   </div>
     </>
   );
